@@ -46,8 +46,8 @@
     <div class="container">
       <img src="{{ asset('images/Famous-Solar-Company-in-Ibadan-Nigeria.jpg') }}" alt="Solar Panels">
       <div class="asset">
-        <h5>Your Perfect Solar Company in Nigeria</h5>
-        <h1>Providing Value To Our Clients Through Sustainable, Reliable & Affordable Energy</h1>
+        <h5>Your Perfect Solar and Engineering  Company in Nigeria</h5>
+        <h1></h1>
         <p>We’re the best solar company in Ibadan, Nigeria. We specialize in <a href="#">Solar & Inverter installation</a>, Solar products, Backup Systems, Solar Maintenance,<a href="#"> CCTV Camera installation</a>. We’re dedicated to reshaping the way you think about energy.</p>
         <div class="call">
           <div class="call-item">
