@@ -44,7 +44,7 @@
   <!-- Asset Section -->
   <section class="asset-section">
     <div class="container">
-      <img src="{{ asset('images/group.jpg') }}" alt="Solar Panels">
+      <img src="{{ asset('images/group.jpeg') }}" alt="Solar Panels">
       <div class="asset">
         <h5>Your Perfect Solar and Engineering  Company in Nigeria</h5>
         <h1></h1>
