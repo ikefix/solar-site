@@ -85,7 +85,7 @@
         </div>
 
         <div class="card">
-          <img src="{{ asset('images/fixing-solar2.jpg') }}" alt="Solar Installation">
+          <img src="{{ asset('images/joemmaxglobal-logo.jpeg') }}" alt="Solar Installation">
           <div>
             <h3>Electrical and Security Solutions</h3>
             <p>Your go-to place for Electrical works, wiring, Maintenance.</p>

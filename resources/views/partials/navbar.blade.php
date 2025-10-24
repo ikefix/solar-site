@@ -12,7 +12,7 @@
   <!-- Navbar -->
   <nav class="main-nav">
     <div class="nav-logo">
-      <img src="{{ asset('images/Famous-Solar-Logo-2-1.png')}}" alt="Famous Solar"/>
+      <img src="{{ asset('images/joemmaxglobal-logo.jpeg') }}" alt="Famous Solar"/>
     </div>
 
     
@@ -38,7 +38,7 @@
       <hr>
       <li><a href="{{ route('inverter-services') }}">Solar Energy and Inverter packages</a></li>
       <hr>
-      <li><a href="{{ route('electrical-services') }}">Electrical Works, Troubleshooting and Solution solutions</a></li>
+      <li><a href="{{ route('electrical-services') }}">Electrical Works, Troubleshooting and solutions</a></li>
       <hr>
       <li><a href="{{ route('maintenance-services') }}">Smart Security Solutions</a></li>
       <hr>
