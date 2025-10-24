@@ -32,17 +32,21 @@
      <ul id="dropdown">
       <li><a href="#">Services <i class="fas fa-caret-down"></i></a></li>
       <ul class="dropdown">
-        <li><a href="{{ route('solar') }}">Solar Services</a></li>
+        <li><a href="{{ route('solar') }}">Solar Installation</a></li>
       <hr>
-      <li><a href="{{ route('cctv-services') }}">CCTV Services</a></li>
+      <li><a href="{{ route('cctv-services') }}">Solar Street Light Installation</a></li>
       <hr>
-      <li><a href="{{ route('inverter-services') }}">Inverter Installation</a></li>
+      <li><a href="{{ route('inverter-services') }}">Solar Energy and Inverter packages</a></li>
       <hr>
-      <li><a href="{{ route('electrical-services') }}">Electrical Wiring</a></li>
+      <li><a href="{{ route('electrical-services') }}">Electrical Works, Troubleshooting and Solution solutions</a></li>
       <hr>
-      <li><a href="{{ route('maintenance-services') }}">Maintenance & Repairs</a></li>
+      <li><a href="{{ route('maintenance-services') }}">Smart Security Solutions</a></li>
       <hr>
-      <li><a href="{{ route('networking-services') }}">Networking & IT Setup</a></li>
+      <li><a href="{{ route('networking-services') }}">Construction and Maintenance</a></li>
+      <hr>
+      <li><a href="{{ route('networking-services') }}">Electrical Installation</a></li>
+      <hr>
+      <li><a href="{{ route('networking-services') }}">General Contracts and Business Consultations</a></li>
       </ul>
       </ul>
       <li><a href="{{ route('our-work') }}">Our Work</a></li>
