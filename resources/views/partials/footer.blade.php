@@ -14,14 +14,16 @@
       <a href="{{ route('our-work') }}">Our Work</a>
       <a href="{{ route('contact') }}">Contact Us</a>
     </div>
-
     <div class="footer-top2">
       <h1>Services</h1>
       <a href="#">Solar Installation</a>
-      <a href="#">Solar Maintenance</a>
-      <a href="#">CCTV Camera Installation</a>
+      <a href="#">Solar Street Light Installation</a>
+      <a href="#">Solar Energy and Inverter packages</a>
+      <a href="#">Electrical Works, Troubleshooting and Solution solutions</a>
+      <a href="#">Smart Security Solutions</a>
+      <a href="#">Construction and Maintenance</a>
       <a href="#">Electrical Installion</a>
-      <a href="#">Electric Fence Installation</a>
+      <a href="#">General Contracts and Business Consultations</a>
     </div>
 
     <div class="footer3">
@@ -29,7 +31,7 @@
 
       <p>Shop 26 Merit Complex Ajacent ST. Apata<br>
       Filling Station Odo Ona Elewe Road Orita<br>
-    Ibadan</p>
+    </p>
 
     <p>+234689096423 & +23490183990</p>
 

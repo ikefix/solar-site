@@ -328,7 +328,7 @@ li {
 
 .asset-section .container img {
   flex: 1;
-  height: 380px;
+  height: auto;
 }
 
 .asset-section .asset {

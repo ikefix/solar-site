@@ -61,7 +61,7 @@
             <i class="fas fa-comment-dots"></i>
             <div>
               <h5>Whatsapp us</h5>
-              <span>+2348075561016</span>
+              <span>+2348171684821</span>
             </div>
           </div>
         </div>
@@ -78,7 +78,7 @@
         <div class="card">
           <img src="{{ asset('images/fixing-solar.webp') }}" alt="Solar Installation">
           <div>
-            <h3>Solar for Utilities</h3>
+            <h3>Solar Energy Solutions</h3>
             <p>We install applications like solar water heaters, street-lights, water pumps, and more.</p>
             <a href="{{ route('about')}}">Learn More</a>
           </div>
@@ -87,8 +87,8 @@
         <div class="card">
           <img src="{{ asset('images/fixing-solar2.jpg') }}" alt="Solar Installation">
           <div>
-            <h3>Solar for Utilities</h3>
-            <p>We install applications like solar water heaters, street-lights, water pumps, and more.</p>
+            <h3>Electrical and Security Solutions</h3>
+            <p>Your go-to place for Electrical works, wiring, Maintenance.</p>
             <a href="{{ route('about')}}">Learn More</a>
           </div>
         </div>
@@ -96,7 +96,7 @@
         <div class="card">
           <img src="{{ asset('images/benjamin-jopen-2SfssudtyIA-unsplash.jpg') }}" alt="Solar Installation">
           <div>
-            <h3>Solar for Utilities</h3>
+            <h3>Construction and General Contracts Solutions</h3>
             <p>We install applications like solar water heaters, street-lights, water pumps, and more.</p>
             <a href="{{ route('about')}}">Learn More</a>
           </div>
@@ -131,7 +131,7 @@
   <section class="hero3">
     <div class="hero-overlay3">
       <div class="contact">
-        <h1>WHY FAMOUS SOLAR SERVICES?</h1>
+        <h1>WHY JOEMMAXXGLOBAL SERVICES?</h1>
         <p>When you choose us for your project, know you're getting highly qualified professionals <br>who have the expertise and experience to make sure your project is done properly and<br> functions. Here are also 4 reasons why you should choose us</p>
         <div class="suggestions">
           <div>
