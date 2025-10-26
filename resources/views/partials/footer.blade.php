@@ -45,7 +45,7 @@
 
   <hr>
 <div class="ending">
-  <p>Copyright &copy; 2025 Famous Solar. All Rights Reserved</p>
+  <p>Copyright &copy; 2025 JOEMMAXX GLOBAL SERVICES. All Rights Reserved</p>
 
   <p>Designed by <span>Ogalearn</span></p>
   </div>
