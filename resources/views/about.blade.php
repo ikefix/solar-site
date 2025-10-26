@@ -128,7 +128,7 @@
     </div>
   </section>
 <!-- About Section -->
-<section class="about-section">
+{{-- <section class="about-section">
   <div class="container">
     <div class="about-content">
       <div class="about-left">
@@ -139,7 +139,7 @@
 
       <div class="about-right">
         <p>
-          <span class="highlight">Famous Solar</span> is a solar energy company located in Ibadan, Nigeria.
+          <span class="highlight">JOEMMAXX GLOBAL SERVICES</span> is a solar energy company located in Ibadan, Nigeria.
           We specialize in <span class="highlight">Solar and Inverter installation</span>,
           Backup Systems, and <span class="highlight">CCTV Camera installation</span>.
           At Famous Solar we provide a steady power supply and security to homes and businesses
@@ -159,7 +159,49 @@
       </div>
     </div>
   </div>
+</section> --}}
+<section class="about-section">
+  <div class="container">
+    <div class="about-content">
+      <div class="about-left">
+        <h4 class="small-heading">WHO WE ARE</h4>
+        <h2 class="main-heading">WE ARE A LEADING SOLAR ENERGY AND ELECTRICAL COMPANY IN NIGERIA</h2>
+        <img src="{{ asset('images/fixing-solar2.jpg') }}" alt="Solar Installation by Joemmaxx Global Services">
+      </div>
+
+      <div class="about-right">
+        <p>
+          <span class="highlight">JOEMMAXX GLOBAL SERVICES</span> is a reliable and innovative company based in Nigeria, 
+          specializing in <span class="highlight">Solar and Inverter Installations</span>, 
+          <span class="highlight">Solar Street Light Projects</span>, and 
+          <span class="highlight">Smart Security Solutions</span>. 
+          We are dedicated to delivering steady power supply and security to homes, offices, and businesses 
+          through clean and renewable solar energy.
+        </p>
+
+        <p>
+          Our expertise also covers <span class="highlight">Electrical Works and Troubleshooting</span>, 
+          <span class="highlight">Construction and Maintenance</span>, 
+          <span class="highlight">General Electrical Installations</span>, and 
+          <span class="highlight">Business Consultations</span>. 
+          At Joemmaxx Global Services, we pride ourselves on professionalism, technical excellence, 
+          and customer satisfaction — providing reliable solutions that save costs, improve productivity, 
+          and support a sustainable environment.
+        </p>
+
+        <p>
+          Whether you are a homeowner seeking stable energy, a business owner looking to optimize 
+          operations, or a community project developer, our team is ready to provide the best-fit 
+          solar and electrical solutions to meet your needs. We believe in empowering our clients 
+          through innovation, integrity, and quality service.
+        </p>
+
+        <a href="#" class="orange-btn">Our Projects</a>
+      </div>
+    </div>
+  </div>
 </section>
+
 
 <section class="value-section">
   <div class="container">
@@ -207,9 +249,12 @@
 <section class="hero3">
     <div class="hero-overlay3">
       <div class="contact">
-        <h1>WHY FAMOUS SOLAR SERVICES?</h1>
-        <P>When you choose us for your project, know you're getting highly qualified professionals<br> who have 
-          the expertise and experience to make sure your project is done properly and<br> functions. Here are also 4 reasons why you should choose us
+        <h1>WHY CHOOSE JOEMMAXX GLOBAL SERVICES?</h1>
+        <P>
+          Joemmaxx Global Services is a reputable and forward-thinking company based in Nigeria, 
+          committed to delivering high-quality and sustainable solutions across the energy, electrical, and construction sectors. Our core mission is to provide reliable services that enhance productivity, promote clean energy adoption, 
+          and support infrastructural growth nationwide
+
         </P>
         <div class="suggestions">
           <div>

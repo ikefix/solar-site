@@ -1,9 +1,13 @@
 <footer>
   <div class="footer">
     <div class="footer-top1">
-      <img src="{{ asset('images/Famous-Solar-Logo-2-1.png')}}" alt="Famous Solar"/>
-      <p>Famous  solar  is  a  renewable  energy<br> company  located  in  ibadan,  Nigeria. <br>We  specialize  in  Solar  and  Inverter<br> installation
-      ,backup systems,  and  <br>CCTV  Camera  installion.</p>
+      <div class="nav-logo">
+      <img src="{{ asset('images/joemmaxglobal-logo.jpeg') }}" alt="Famous Solar"/>
+    </div>
+      <p>JOEMMAXX GLOBAL SERVICES <br>is a renewable energy company located<br> 
+        in Port Harcourt, Rivers State Nigeria<br>  We specialize in Solar, Electrical and Construction
+        <br><br>
+      </p>
     </div>
 
     <div class="help-links">
