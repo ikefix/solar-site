@@ -858,9 +858,9 @@ footer {
     text-align: left;
   }
 
-  .nav-links .dropdown li {
+  /* .nav-links .dropdown li {
     display: none;
-  }
+  } */
 
   .quote-btn {
     width: auto;
@@ -1041,5 +1041,25 @@ footer {
   .user-details textarea {
     columns: 20px;
   }
+
+
+  #dropdown:hover ul.dropdown {
+  display: block;
+}
+
+
+
+
+.nav-links .dropdown
+ {
+    width: 90vw !important;
+    height: auto;
+    background: white;
+    position: absolute;
+    z-index: 1;
+    display: none;
+    top: 6rem;
+    border: 1px solid #011c3a;
+}
 
 }
