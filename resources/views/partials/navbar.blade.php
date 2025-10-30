@@ -42,9 +42,9 @@
       <hr>
       <li><a href="{{ route('maintenance-services') }}">Smart Security Solutions</a></li>
       <hr>
-      <li><a href="{{ route('networking-services') }}">Construction and Maintenance</a></li>
+      {{-- <li><a href="{{ route('networking-services') }}">Construction and Maintenance</a></li> --}}
       <hr>
-      <li><a href="{{ route('networking-services') }}">Electrical Installation</a></li>
+      {{-- <li><a href="{{ route('networking-services') }}">Electrical Installation</a></li> --}}
       <hr>
       <li><a href="{{ route('networking-services') }}">General Contracts and Business Consultations</a></li>
       </ul>

@@ -131,31 +131,31 @@ transition: transform .35s ease;
   <!-- Hero Section -->
   <section class="hero">
     <div class="hero-overlay">
-        <h1>Safe & Standard Electrical Wiring</h1>
+        <h1>Electrical works, Troubleshooting and Maintenance</h1>
     </div>
   </section>
 
     <!-- Services Section -->
   <section class="services-section">
-    <h2>Our Solar Services</h2>
-    <p class="lead">We provide end-to-end solar solutions — design, supply, installation, and maintenance. Whether for your home or business, our systems are tailored for efficiency and reliability.</p>
+    <h2>Our Electrical Services</h2>
+    <p class="lead">We provide comprehensive electrical services — installation, maintenance, and troubleshooting. Our team ensures safety and efficiency in every project.</p>
 
     <div class="service-grid">
       <div class="service-card">
-        <h3>Residential Solar</h3>
-        <p>Custom rooftop systems with inverter & battery options to keep your home powered, day and night.</p>
+        <h3>Residential Electrical</h3>
+        <p>Custom electrical solutions for homes, including wiring, lighting, and safety inspections.</p>
       </div>
       <div class="service-card">
         <h3>Commercial Solutions</h3>
-        <p>Large-scale solar setups for businesses, warehouses, and offices — save money and boost resilience.</p>
+        <p>Comprehensive electrical services for businesses, including installations, upgrades, and maintenance.</p>
       </div>
       <div class="service-card">
-        <h3>Solar Water Systems</h3>
-        <p>Solar water heaters and borehole pumps for sustainable hot water and reliable water supply.</p>
+        <h3>Electrical Installations</h3>
+        <p>Expert installation of lighting, outlets, and wiring for new constructions and renovations.</p>
       </div>
       <div class="service-card">
         <h3>Maintenance & Repairs</h3>
-        <p>Panel cleaning, system checks, and fast response to ensure maximum performance and lifespan.</p>
+        <p>Prompt electrical repairs and routine maintenance to keep your systems running smoothly.</p>
       </div>
     </div>
   </section>
@@ -165,7 +165,7 @@ transition: transform .35s ease;
 <div class="gallery-inner">
 <header class="gallery-header">
 <h2>Recent Work</h2>
-<p>People fixing solar panels, installing CCTV cameras, and more.</p>
+<p>People fixing electrical systems, installing lighting, and more.</p>
 </header>
 
 

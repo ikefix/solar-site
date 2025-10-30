@@ -126,25 +126,25 @@
 
   <!-- CCTV Services Section -->
   <section class="services-section">
-    <h2>Our CCTV Services</h2>
-    <p class="lead">We provide advanced surveillance solutions that ensure maximum security for your home, business, or industrial site.</p>
+    <h2>Our Solar Street Lighting Services</h2>
+    <p class="lead">We provide advanced solar street lighting solutions that ensure maximum visibility and security for your streets and public spaces.</p>
 
     <div class="service-grid">
       <div class="service-card">
-        <h3>Home CCTV Setup</h3>
-        <p>Protect your family with high-definition indoor and outdoor cameras, viewable from your phone anytime.</p>
+        <h3>Residential Solar Street Lights</h3>
+        <p>Illuminate your home exterior with energy-efficient solar street lights that enhance safety and visibility.</p>
       </div>
       <div class="service-card">
-        <h3>Office & Business Surveillance</h3>
-        <p>Monitor employees, visitors, and property with professional-grade CCTV systems tailored to your space.</p>
+        <h3>Office & Business Solar Lighting</h3>
+        <p>Brighten your commercial space with solar-powered street lights that reduce energy costs and improve security.</p>
       </div>
       <div class="service-card">
-        <h3>Industrial & Warehouse Security</h3>
-        <p>24/7 monitoring systems for factories, warehouses, and sensitive environments with backup storage.</p>
+        <h3>Industrial & Warehouse Solar Lighting</h3>
+        <p>24/7 solar-powered lighting solutions for factories, warehouses, and sensitive environments.</p>
       </div>
       <div class="service-card">
         <h3>Maintenance & Upgrades</h3>
-        <p>Regular checks, repairs, and upgrades to keep your CCTV system working efficiently and securely.</p>
+        <p>Regular checks, repairs, and upgrades to keep your solar street lighting system working efficiently and securely.</p>
       </div>
     </div>
   </section>
@@ -153,8 +153,8 @@
   <section class="gallery">
     <div class="gallery-inner">
       <header class="gallery-header">
-        <h2>Recent CCTV Installations</h2>
-        <p>Check out some of our latest surveillance system setups.</p>
+        <h2>Recent Solar Street Lighting Installations</h2>
+        <p>Check out some of our latest solar street lighting setups.</p>
       </header>
 
       

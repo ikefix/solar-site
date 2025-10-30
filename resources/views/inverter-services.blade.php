@@ -132,22 +132,22 @@ transition: transform .35s ease;
   <!-- Hero Section -->
   <section class="hero">
     <div class="hero-overlay">
-        <h1>Reliable Inverter & Battery Solutions</h1>
+        <h1>Solar Eneregy and Inverter packages</h1>
     </div>
   </section>
 
   <!-- Services Section -->
   <section class="services-section">
-    <h2>Our Solar Services</h2>
-    <p class="lead">We provide end-to-end solar solutions — design, supply, installation, and maintenance. Whether for your home or business, our systems are tailored for efficiency and reliability.</p>
+    <h2> Our Solar Energy and Inverter packages</h2>
+    <p class="lead">We offer a range of solar energy and inverter packages designed to meet your specific needs.</p>
 
     <div class="service-grid">
       <div class="service-card">
-        <h3>Residential Solar</h3>
+        <h3>Residential Packages</h3>
         <p>Custom rooftop systems with inverter & battery options to keep your home powered, day and night.</p>
       </div>
       <div class="service-card">
-        <h3>Commercial Solutions</h3>
+        <h3>Commercial Packages</h3>
         <p>Large-scale solar setups for businesses, warehouses, and offices — save money and boost resilience.</p>
       </div>
       <div class="service-card">
@@ -165,8 +165,8 @@ transition: transform .35s ease;
 <section class="gallery">
 <div class="gallery-inner">
 <header class="gallery-header">
-<h2>Recent Work</h2>
-<p>People fixing solar panels, installing CCTV cameras, and more.</p>
+<h2>Recent Solar Energy and Inverter Installations</h2>
+<p>Projects showcasing our solar energy and inverter solutions in action.</p>
 </header>
 
 
