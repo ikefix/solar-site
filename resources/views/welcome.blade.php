@@ -76,7 +76,7 @@
       <p class="subtitle">ALTERNATIVE ENERGY SOLUTIONS</p>
       <div class="service-cards">
         <div class="card">
-          <img src="{{ asset('images/fixing-solar.webp') }}" alt="Solar Installation">
+          <img src="{{ asset('images/joemmaxx-solar.jpeg') }}" alt="Solar Installation">
           <div>
             <h3>Solar Energy Solutions</h3>
             <p>We install applications like solar water heaters, street-lights, water pumps, and more.</p>
@@ -87,7 +87,7 @@
         <div class="card">
           <img src="{{ asset('images/joemmaxglobal-logo.jpeg') }}" alt="Solar Installation">
           <div>
-            <h3>Electrical and Security Solutions</h3>
+            <h3>Electrical and Troubleshooting Solutions</h3>
             <p>Your go-to place for Electrical works, wiring, Maintenance.</p>
             <a href="{{ route('about')}}">Learn More</a>
           </div>
